@@ -1,4 +1,4 @@
-# yanzhengma
+# 前端主导
 #验证码组件库
 #<security-code id="identifying" width=100 height=20 number="5" line=5 point="20" ></security-code>
 #
